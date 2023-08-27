@@ -1,4 +1,4 @@
-# Speak with your own chart
+# Speech-to-Text ChatGPT
 
 ## About
 I combined the ChatGPT API, Google's speech-to-text library, and text-to-speech library to create a virtual assistan that you can interact with your own voice and with a character of your own setting.
