@@ -8,5 +8,5 @@ Please install libraries in 'requirements.txt'
 
 ## Overview
 
-![alt text]([http://url/to/img.png](https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)
+![alt text](http://url/to/img.png](https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)
 
