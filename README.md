@@ -6,7 +6,10 @@ I combined the ChatGPT API, Google's speech-to-text library, and text-to-speech 
 ## Requirements
 Please install libraries in 'requirements.txt'
 
-## Overview
+## How it works
 
-![alt text](https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)
+### 1. 
+Run [`main.py`]
+
+![alt text](https://github.com/wideflat/chatgpt-speech-to-text-app/blob/main/images/image1.png)
 
